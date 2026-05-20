@@ -1,27 +1,3 @@
-<div align="center">
-
-# Osama Mahmoud
-
-### Flutter Developer • Mobile Engineer
-
-<p align="center">
-Passionate Flutter Developer focused on building scalable, high-performance, and production-ready mobile applications using Flutter and modern software architecture principles.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/osama-mahmoud-601669277/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/osamamahmouddev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:osama255955@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=osamamahmouddev&style=for-the-badge&color=0e75b6" />
 
 </div>
@@ -30,20 +6,18 @@ Passionate Flutter Developer focused on building scalable, high-performance, and
 
 ## 👨‍💻 About Me
 
-I'm **Osama Mahmoud**, a Flutter Developer passionate about building scalable, modern, and high-performance mobile applications using Flutter and clean architecture principles.
+I'm **Osama Mahmoud**, a Flutter Developer with expertise in designing and developing scalable, high-performance mobile applications. I specialize in clean architecture, state management, and building production-ready solutions that prioritize performance and user experience.
 
-I focus on creating maintainable codebases, responsive user interfaces, and production-ready applications with strong attention to performance and user experience.
+My approach focuses on writing maintainable code, designing responsive interfaces, and implementing best practices in mobile development.
 
-### What I Focus On
+### Core Expertise
 
-- Clean Architecture & Scalable Codebases
-- State Management (Bloc / Cubit)
-- Firebase Integration
-- REST APIs & Backend Integration
-- Responsive & Modern UI/UX
-- App Performance Optimization
-- Real-time Features & Notifications
-- Production-Ready Mobile Applications
+- **Architecture & Design**: Clean Architecture, MVVM, Scalable Codebases
+- **State Management**: BLoC, Cubit
+- **Backend Integration**: Firebase, REST APIs, GraphQL
+- **Advanced Features**: Real-time functionality, push notifications, payment integration
+- **UI/UX**: Responsive design, performance optimization
+- **Development Tools**: Git, GitHub, CI/CD, Android Studio
 
 ---
 
@@ -78,21 +52,25 @@ I focus on creating maintainable codebases, responsive user interfaces, and prod
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Technical Proficiencies
 
-- Flutter & Dart
-- Firebase Authentication & Firestore
-- REST APIs & GraphQL
-- Bloc / Cubit State Management
-- Clean Architecture & MVVM
-- Local Storage (Hive / SQLite / SharedPreferences)
-- Google Maps Integration
-- Firebase Cloud Messaging (FCM)
-- Push Notifications
-- Payment Gateway Integration
-- Git & GitHub
-- CI/CD Basics
-- Performance Optimization
+**Mobile Development:**
+Flutter, Dart, Responsive Design
+
+**Backend & Services:**
+Firebase Authentication, Firestore, REST APIs, GraphQL, Firebase Cloud Messaging (FCM)
+
+**Architecture & Patterns:**
+Clean Architecture, MVVM, BLoC/Cubit State Management
+
+**Data Persistence:**
+Hive, SQLite, SharedPreferences, Local Storage Solutions
+
+**Advanced Integrations:**
+Google Maps, Payment Gateways, Push Notifications, Real-time Features
+
+**Development & DevOps:**
+Git & GitHub, CI/CD Fundamentals, Performance Optimization
 
 ---
 
@@ -108,16 +86,7 @@ I focus on creating maintainable codebases, responsive user interfaces, and prod
 
 ---
 
-## 📫 Contact Me
+## 📫 Get in Touch
 
-- 📧 Email: osama255955@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/osama-mahmoud-601669277/
-- 💻 GitHub: https://github.com/osamamahmouddev
-
----
-
-<div align="center">
-
-### ⚡ Building scalable and modern Flutter applications.
-
-</div>
+- 📧 **Email:** osama255955@gmail.com
+- 💼 **LinkedIn:** [Osama Mahmoud](https://www.linkedin.com/in/osama-mahmoud-601669277/)
