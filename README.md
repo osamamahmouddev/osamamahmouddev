@@ -78,9 +78,11 @@ Git & GitHub, CI/CD Fundamentals, Performance Optimization
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=osamamahmouddev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
+<!-- Option A: Using github-readme-streak-stats (more reliable) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamamahmouddev&theme=tokyonight&hide_border=true" height="180"/>
+
+<!-- Option B: Using a simpler card -->
+<img alt="Osama's GitHub Stats" src="https://github-readme-stats-git-master-lfg-dev.vercel.app/api?username=osamamahmouddev&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
