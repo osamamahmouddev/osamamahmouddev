@@ -13,82 +13,68 @@ My approach focuses on writing maintainable code, designing responsive interface
 ### Core Expertise
 
 - **Architecture & Design**: Clean Architecture, MVVM, Scalable Codebases
-- **State Management**: BLoC, Cubit
-- **Backend Integration**: Firebase, REST APIs, GraphQL
-- **Advanced Features**: Real-time functionality, push notifications, payment integration
-- **UI/UX**: Responsive design, performance optimization
-- **Development Tools**: Git, GitHub, CI/CD, Android Studio
+- - **State Management**: BLoC, Cubit
+  - - **Backend Integration**: Firebase, REST APIs, GraphQL
+    - - **Advanced Features**: Real-time functionality, push notifications, payment integration
+      - - **UI/UX**: Responsive design, performance optimization
+        - - **Development Tools**: Git, GitHub, CI/CD, Android Studio
+         
+          - ---
 
----
+          ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
+          <div align="left">
 
-<div align="left">
+          <img src="https://www.svgrepo.com/show/349363/flutter.svg" height="45" alt="Flutter" />
+          <img width="12"/>
 
-<img src="https://www.svgrepo.com/show/349363/flutter.svg" height="45" alt="Flutter" />
-<img width="12"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="45" alt="Dart" />
+          <img width="12"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="45" alt="Dart" />
-<img width="12"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="Firebase" />
+          <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="Firebase" />
-<img width="12"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+          <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-<img width="12"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
+          <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
-<img width="12"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+          <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-<img width="12"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+          <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-<img width="12"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="Android Studio" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="Android Studio" />
+          </div>
 
-</div>
+          ---
 
----
+          ## 🛠 Technical Proficiencies
 
-## 🛠 Technical Proficiencies
+          **Mobile Development:**
+          Flutter, Dart, Responsive Design
 
-**Mobile Development:**
-Flutter, Dart, Responsive Design
+          **Backend & Services:**
+          Firebase Authentication, Firestore, REST APIs, GraphQL, Firebase Cloud Messaging (FCM)
 
-**Backend & Services:**
-Firebase Authentication, Firestore, REST APIs, GraphQL, Firebase Cloud Messaging (FCM)
+          **Architecture & Patterns:**
+          Clean Architecture, MVVM, BLoC/Cubit State Management
 
-**Architecture & Patterns:**
-Clean Architecture, MVVM, BLoC/Cubit State Management
+          **Data Persistence:**
+          Hive, SQLite, SharedPreferences, Local Storage Solutions
 
-**Data Persistence:**
-Hive, SQLite, SharedPreferences, Local Storage Solutions
+          **Advanced Integrations:**
+          Google Maps, Payment Gateways, Push Notifications, Real-time Features
 
-**Advanced Integrations:**
-Google Maps, Payment Gateways, Push Notifications, Real-time Features
+          **Development & DevOps:**
+          Git & GitHub, CI/CD Fundamentals, Performance Optimization
 
-**Development & DevOps:**
-Git & GitHub, CI/CD Fundamentals, Performance Optimization
+          ---
 
----
+          ## 📫 Get in Touch
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Option A: Using github-readme-streak-stats (more reliable) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osamamahmouddev&theme=tokyonight&hide_border=true" height="180"/>
-
-<!-- Option B: Using a simpler card -->
-<img alt="Osama's GitHub Stats" src="https://github-readme-stats-git-master-lfg-dev.vercel.app/api?username=osamamahmouddev&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Get in Touch
-
-- 📧 **Email:** osama255955@gmail.com
-- 💼 **LinkedIn:** [Osama Mahmoud](https://www.linkedin.com/in/osama-mahmoud-601669277/)
+          - 📧 **Email:** osama255955@gmail.com
+          - - 💼 **LinkedIn:** [Osama Mahmoud](https://www.linkedin.com/in/osama-mahmoud-601669277/)
