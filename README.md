@@ -104,12 +104,17 @@ expertise:
 
 <br/>
 
-<!-- Activity Graph -->
-## 📈 &nbsp;Contribution Graph
+<!-- Profile Summary Cards -->
+## 📈 &nbsp;Profile Summary
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=osamamahmouddev&bg_color=0D1117&color=1a73e8&line=00d4ff&point=FFFFFF&area=true&area_color=1a73e8&hide_border=true)](https://github.com/osamamahmouddev)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osamamahmouddev&theme=tokyonight" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osamamahmouddev&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osamamahmouddev&theme=tokyonight&utcOffset=2" />
 
 </div>
 
@@ -160,17 +165,6 @@ expertise:
 </div>
 
 <br/>
-
-<!-- Snake Animation -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osamamahmouddev/osamamahmouddev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osamamahmouddev/osamamahmouddev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/osamamahmouddev/osamamahmouddev/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a73e8,100:00d4ff&height=120&section=footer" />
